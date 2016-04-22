@@ -2,7 +2,7 @@
 
 This repository contains the plain data of our real user evaluation we conduced with a research prototype for the Städel Museum. We hereby release the data in an open matter.
 
-The research prototype allows to discover content in two ways: Firstly, by direct, conventional search, secondly, by a new paradigm we called digital strolling. Subject of evaluation is to analyse the comparison of both discovery patterns. 
+The research prototype allows to discover content in two ways: Firstly, by direct, conventional search, secondly, by a new paradigm we called digital strolling. Subject of evaluation is to compare the performance of both discovery patterns. 
 
 ## Preparations that happened before publication
 
